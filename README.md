@@ -27,6 +27,23 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 
 ## HTML <a name = "html"></a>
 
+HTML, or HyperText Markup Language, is used to describe web documents. It's called hypertext because you're able to jump from one document to another in a nonlinear fashion.
+Markup languages are used to describe the logical structure of a document and contains instructions on how it should be laid out. HTML was invented by Tim Berners-Lee in 1990. It provides the structure of the web page and you can say that HTML is a bone of any website.
+
+### Basic Sturuture of HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+
+</body>
+</html>
+```
+
 ## CSS <a name = "css"></a>
 
 ## JAVASCRIPT <a name = "javascript"></a>
