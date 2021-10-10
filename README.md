@@ -39,8 +39,21 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 
 ## Practice <a name = "practice"></a>
 
-website where you can practice and do challange to level up your learing
+#### HTML and CSS beginner friendly projects
 
+1. A Tribute Page
+2. Webpage Including Form
+3. Parallax Website
+4. Landing Page
+5. Restaurant Website
+6. An Event or Conference Webpage
+7. Music Store Page
+8. Photography Site
+9. Personal Portfolio
+10. Technical Documentation
+<br>
+website where you can practice and do challange to level up your learing
+<br>
 1. [Build a simple website using HTML, CSS, and JavaScript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/)
 
 <br>
