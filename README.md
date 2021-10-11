@@ -26,6 +26,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 <br>
 
 ## HTML <a name = "html"></a>
+* [HTML Playlist of Kevin Pawell](https://youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
 
 ## CSS <a name = "css"></a>
 
@@ -34,8 +35,11 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 ## Youtube Channel <a name = "youtube_channel"></a>
 
 1. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
-2. [Kevin Power](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+2. [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
 3. [Web Dev Simplified](https://www.youtube.com/results?search_query=web+simplified)
+4. [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+5. [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+6. [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 
 ## Practice <a name = "practice"></a>
 
