@@ -29,6 +29,22 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 * [HTML Playlist of Kevin Pawell](https://youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
 
 ## CSS <a name = "css"></a>
+1. Box Model
+2. CSS Selectors
+3. Fonts
+4. Colors and opacity
+5. Padding, Margin
+6. Css Units (rem, em, px,vh....)
+7. Positions
+8. height and Width
+9. Flexbox
+10. Background
+11. Borders
+12. Media query
+13. Translate
+14. Transform
+15. Animation
+16. Grid
 
 ## JAVASCRIPT <a name = "javascript"></a>
 
