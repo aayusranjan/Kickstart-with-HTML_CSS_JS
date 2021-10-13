@@ -28,23 +28,6 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 ## HTML <a name = "html"></a>
 * [HTML Playlist of Kevin Pawell](https://youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
 
-HTML, or HyperText Markup Language, is used to describe web documents. It's called hypertext because you're able to jump from one document to another in a nonlinear fashion.
-Markup languages are used to describe the logical structure of a document and contains instructions on how it should be laid out. HTML was invented by Tim Berners-Lee in 1990. It provides the structure of the web page and you can say that HTML is a bone of any website.
-
-### Basic Structure of HTML
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-</head>
-<body>
-
-</body>
-</html>
-```
-
 ## CSS <a name = "css"></a>
 1. Box Model
 2. CSS Selectors
@@ -64,6 +47,8 @@ Markup languages are used to describe the logical structure of a document and co
 16. Grid
 
 ## JAVASCRIPT <a name = "javascript"></a>
+
+* [JavaScript Playlist of Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP)
 
 ## Youtube Channel <a name = "youtube_channel"></a>
 
