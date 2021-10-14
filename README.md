@@ -48,6 +48,8 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 
 ## JAVASCRIPT <a name = "javascript"></a>
 
+* [JavaScript Playlist of Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP)
+
 ## Youtube Channel <a name = "youtube_channel"></a>
 
 1. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
