@@ -65,6 +65,11 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 
 ## Practice <a name = "practice"></a>
 
+#### Challenges
+
+1. [100 dayscss](https://100dayscss.com/)
+
+
 #### HTML and CSS beginner friendly projects
 
 1. A Tribute Page
