@@ -50,8 +50,9 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 15. Animation
 16. Grid
 
-#### -extra
+#### - extra
 1. [Multi-column layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns)
+- exercise to [practice](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multicol_skills)
 
 ## JAVASCRIPT <a name = "javascript"></a>
 
