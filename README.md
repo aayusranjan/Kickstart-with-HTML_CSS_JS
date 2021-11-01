@@ -98,4 +98,7 @@ website where you can practice and do challange to level up your learing
 
 [Frontend Roadmap](https://github.com/yueming-Chen/developer-roadmap-chinese/blob/master/frontend.md)
 
+[Practity](https://practity.com/481-2/)
+- some resources mentioned on this website.
+
 ## Wrap Up <a name = "wrap_up"></a>
