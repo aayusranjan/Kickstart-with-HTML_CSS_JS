@@ -30,6 +30,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 
 ## HTML <a name = "html"></a>
 * [HTML Playlist of Kevin Pawell](https://youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
+* Semantic HTML Tags
 
 ## CSS <a name = "css"></a>
 1. Box Model
