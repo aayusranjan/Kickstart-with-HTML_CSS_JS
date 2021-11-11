@@ -107,6 +107,6 @@ website where you can practice and do challange to level up your learing
 - some resources mentioned on this website.
 
 [STACKSHARE.io](https://stackshare.io/feed)
-- know which company which stack using
+- You can know how popluar techonlogy are and which company using them
 
 ## Wrap Up <a name = "wrap_up"></a>
