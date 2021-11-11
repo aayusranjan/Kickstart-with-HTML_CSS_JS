@@ -3,6 +3,8 @@ In this repo we will add all important rescores and extra thing, so everyone can
 
 <hr>
 
+[Introduction](https://youtu.be/Sxxw3qtb3_g)
+
 Table of contents
 =================
 * [Websites](#websites)
