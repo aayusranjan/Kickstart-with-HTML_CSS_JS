@@ -105,5 +105,7 @@ website where you can practice and do challange to level up your learing
 
 [Practity](https://practity.com/481-2/)
 - some resources mentioned on this website.
+[STACKSHARE.io](https://stackshare.io/feed)
+- know which company which stack using
 
 ## Wrap Up <a name = "wrap_up"></a>
