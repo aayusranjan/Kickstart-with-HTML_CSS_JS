@@ -52,6 +52,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 14. Transform
 15. Animation
 16. [Grid](https://www.youtube.com/watch?v=uuOXPWCh-6o)
+17. [Carousel Slider](https://youtu.be/ku_97a6Bgkg)
 
 #### - extra
 1. [Multi-column layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns)
