@@ -28,12 +28,14 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 
 1. [MDN web docs](https://mdn.dev/)
 2. [THE ODIN PROJECT](https://www.theodinproject.com/courses/foundations#html-foundations)
+3. [Learn JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
 
 <br>
 
 ## HTML <a name = "html"></a>
 * [HTML Playlist of Kevin Pawell](https://youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
 * [Semantic HTML Tags](https://www.youtube.com/watch?v=naha1DIHK4E)
+* [codecademy sematic htm](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review)
 
 ## CSS <a name = "css"></a>
 1. Box Model
