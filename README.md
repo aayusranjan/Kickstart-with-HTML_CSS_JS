@@ -64,6 +64,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 
 * [JavaScript Playlist of Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTSu9cVg8jjXW8jndOYYJPP)
 * [Reserved keywords as of ECMAScript 2015](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#keywords)
+* [Iterators cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-iterators/cheatsheet)
 
 ## Youtube Channel <a name = "youtube_channel"></a>
 
