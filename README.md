@@ -27,9 +27,10 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 ## Documents and Articles
 
 1. [MDN web docs](https://mdn.dev/)
-2. [THE ODIN PROJECT](https://www.theodinproject.com/courses/foundations#html-foundations)
-3. [Learn JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
-4. [28 Free Ebooks and Courses](https://enlear.academy/28-ebook-and-course-free-for-web-development-4f01a4d1f4a6)
+2. [devdocs](https://devdocs.io)
+3. [THE ODIN PROJECT](https://www.theodinproject.com/courses/foundations#html-foundations)
+4. [Learn JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
+5. [28 Free Ebooks and Courses](https://enlear.academy/28-ebook-and-course-free-for-web-development-4f01a4d1f4a6)
 
 <br>
 
