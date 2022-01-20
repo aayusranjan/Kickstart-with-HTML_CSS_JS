@@ -49,14 +49,16 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 7. Positions
 8. height and Width
 9. Flexbox
-10. Background
-11. Borders
-12. Media query
-13. Translate
-14. Transform
-15. Animation
-16. [Grid](https://www.youtube.com/watch?v=uuOXPWCh-6o)
-17. [Carousel Slider](https://youtu.be/ku_97a6Bgkg)
+- [cheatsheet](https://flexbox.malven.co/)
+11. Background
+12. Borders
+13. Media query
+14. Translate
+15. Transform
+16. Animation
+17. [Grid](https://www.youtube.com/watch?v=uuOXPWCh-6o)
+- [cheatsheet](https://grid.malven.co/)
+18. [Carousel Slider](https://youtu.be/ku_97a6Bgkg)
 
 #### - extra
 1. [Multi-column layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns)
@@ -120,6 +122,7 @@ website where you can practice and do challange to level up your learing
 
 [WayBackMachine](https://archive.org/web/)
 - shows the how website look like when first launch to now
+
 [320 web devloper resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
 
 ## Wrap Up <a name = "wrap_up"></a>
