@@ -120,5 +120,6 @@ website where you can practice and do challange to level up your learing
 
 [WayBackMachine](https://archive.org/web/)
 - shows the how website look like when first launch to now
+[320 web devloper resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
 
 ## Wrap Up <a name = "wrap_up"></a>
