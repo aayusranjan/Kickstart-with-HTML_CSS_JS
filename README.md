@@ -63,6 +63,8 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 #### - extra
 1. [Multi-column layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns)
 - exercise to [practice](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multicol_skills)
+2. [MODERN CSS](https://moderncss.dev/)
+  - a collection of modern css solutions of old css problem.
 
 ## JAVASCRIPT <a name = "javascript"></a>
 
