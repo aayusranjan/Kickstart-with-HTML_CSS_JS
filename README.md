@@ -35,6 +35,12 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 <br>
 
 ## HTML <a name = "html"></a>
+-[] BEM
+     - BEM (which stands for Block-Element-Modifier) is a naming convention standard for CSS class names. It has fairly wide adoption and is immensely useful in writing CSS that is easier to read, understand, and scale.
+     
+-[] Semantic HTML
+     - Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+     
 * [HTML Playlist of Kevin Pawell](https://youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-)
 * [Semantic HTML Tags](https://www.youtube.com/watch?v=naha1DIHK4E)
 * [codecademy sematic htm](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/review)
