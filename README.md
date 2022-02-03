@@ -49,7 +49,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 7. Positions
 8. height and Width
 9. Flexbox
-  - [cheatsheet](https://flexbox.malven.co/)
+     - [cheatsheet](https://flexbox.malven.co/)
 11. Background
 12. Borders
 13. Media query
