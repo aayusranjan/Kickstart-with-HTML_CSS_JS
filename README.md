@@ -57,7 +57,8 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 15. Transform
 16. Animation
 17. [Grid](https://www.youtube.com/watch?v=uuOXPWCh-6o)
-   - [cheatsheet](https://grid.malven.co/)
+     - [Article: Getting Started with CSS Grid](https://medium.com/html-all-the-things/getting-started-with-css-grid-c80f6376b04f)
+     - [cheatsheet](https://grid.malven.co/)
 18. [Carousel Slider](https://youtu.be/ku_97a6Bgkg)
 
 #### - extra
