@@ -15,6 +15,7 @@ Table of contents
 * [Practice](#practice)
 * [Some extra](#some_extra)
 * [Wrap Up](#wrap_up)
+* [What's Next](#whats_next)
 
 ## Websites <a name = "websites"></a>
 Some free Websites to Get Started with HTML CSS and JAVASCRIPT
@@ -137,3 +138,33 @@ website where you can practice and do challange to level up your learing
 [320 web devloper resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
 
 ## Wrap Up <a name = "wrap_up"></a>
+
+## What's Next <a name = "#whats_next"></a>
+     
+     
+    Build a cool protfolio to stand out.
+     
+    - [30 Web Devloper Portfolios to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw#ckv1y8m0g0bclp5s18mn5cn6t)
+     
+   ### Optional<br>
+     
+    10 Projects you can look thorough.
+     
+      a. Online Code Editor (JQuery)
+      b. Real Time Video Processing using ChromaKey (GreenScreen) Effect
+      c. Instagram Automation
+      d. Sorting Visualizer
+      e. Online Code Editor (React)
+      f. Stock Visualization-Forecasting dashboard using Dash
+      g. OurApp - a social media web app in NodeJS
+      h. Amazon Clone
+      i. Customer Relationship Manager
+      j. WhatsApp Web Clone
+      
+    
+   
+    
+  
+     
+     
+    
