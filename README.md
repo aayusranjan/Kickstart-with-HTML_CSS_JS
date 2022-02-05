@@ -142,9 +142,9 @@ website where you can practice and do challange to level up your learing
 ## What's Next <a name = "#whats_next"></a>
      
      
-    Build a cool protfolio to stand out.
+    Build a cool protfolio to stand out. 
      
-    - [30 Web Devloper Portfolios to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw#ckv1y8m0g0bclp5s18mn5cn6t)
+   [30 Web Devloper Portfolios to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw#ckv1y8m0g0bclp5s18mn5cn6t)
      
    ### Optional<br>
      
