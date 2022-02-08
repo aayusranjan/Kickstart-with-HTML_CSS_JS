@@ -93,6 +93,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 4. [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 5. [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 6. [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+7. [University of Michigan](https://youtu.be/TdqQqyc7pfU)
 
 ## Practice <a name = "practice"></a>
 
