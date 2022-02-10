@@ -96,11 +96,13 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 7. [University of Michigan](https://youtu.be/TdqQqyc7pfU)
 
 ## Practice <a name = "practice"></a>
+`
 
 #### Challenges
 
 1. [100 dayscss](https://100dayscss.com/)
-
+2. [Frontend Mentor](https://www.frontendmentor.io/challenges)
+3. [Devchallenges](https://devchallenges.io/)
 
 #### HTML and CSS beginner friendly projects
 
