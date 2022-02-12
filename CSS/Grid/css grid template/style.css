@@ -1,0 +1,228 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+
+/* SET UP */
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  background-color: snow;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.item {
+  padding: 8px;
+  background-color: white;
+  border: 4px solid tomato;
+  border-radius: 6px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
+}
+
+.height-50 {
+  height: 50vh;
+}
+
+/* Task 1 */
+
+.task-1.container {
+  display: grid;
+  height: 100vh;
+  grid-template-rows: auto 1fr auto;
+}
+
+/* Task 2 */
+
+.task-2.container {
+  display: grid;
+  height: 100vh;
+  /* grid-template-columns: 1fr 2fr; without centreing
+  grid-gap: 1rem; */
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 1rem;
+  align-items: center;
+}
+
+.task-2 .item-1 {
+}
+
+.task-2 .item-2 {
+}
+
+/* Task 3.1 */
+
+.task-3-1.container {
+  display: grid;
+  height: 100vh;
+  grid-template-rows: auto auto 1fr auto auto auto;
+  gap: 23px;
+}
+
+@media (min-width: 720px) {
+  .task-3-1.container {
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: auto auto 1fr auto;
+  }
+
+  .task-3-1 .header {
+    grid-column: 1 / span 12;
+  }
+
+  .task-3-1 .navigation {
+    grid-column: 1 / span 12;
+  }
+
+  .task-3-1 .main {
+    grid-column: 3 / span 10;
+  }
+
+  .task-3-1 .sidebar {
+    grid-column: 1 / span 2;
+    grid-row: 3;
+  }
+
+  .task-3-1 .ads {
+    grid-column: 1 / span 2;
+  }
+
+  .task-3-1 .footer {
+    grid-column: 3 / span 10;
+  }
+}
+
+@media (min-width: 1020px) {
+  .task-3-1 .header {
+    display: grid;
+    
+  }
+
+  .task-3-1 .navigation {
+    grid-column: 3 / span 8;
+  }
+
+  .task-3-1 .main {
+    grid-column: 3 / span 8;
+  }
+
+  .task-3-1 .sidebar {
+    grid-row: 2 / 4;
+  }
+
+  .task-3-1 .ads {
+    grid-column: 11 / span 2;
+    grid-row: 2 / 4;
+  }
+
+  .task-3-1 .footer {
+    grid-column: 1 / span 12;
+  }
+}
+
+/* Task 3.2 */
+
+.task-3-2.container {
+  display: grid;
+  height: 100vh;
+  gap: 24px;
+  grid-template-rows: auto auto 1fr auto auto auto;
+  grid-template-areas:
+    "header"
+    "nav"
+    "main"
+    "sidebar"
+    "ads"
+    "footer";
+}
+
+.task-3-2 .header {
+  grid-area: header;
+}
+
+.task-3-2 .navigation {
+  grid-area: nav;
+}
+
+.task-3-2 .ads {
+  grid-area: ads;
+}
+
+.task-3-2 .sidebar {
+  grid-area: sidebar;
+}
+
+.task-3-2 .main {
+  grid-area: main;
+}
+
+.task-3-2 .footer {
+  grid-area: footer;
+}
+
+@media (min-width: 720px) {
+  .task-3-2.container {
+    grid-template-rows: auto auto 1fr auto;
+    grid-template-areas:
+      "header header header"
+      "nav nav nav "
+      "sidebar main main"
+      "ads footer footer";
+  }
+}
+
+@media (min-width: 1020px) {
+  .task-3-2.container {
+    grid-template-rows: auto auto 1fr auto;
+    grid-template-areas: 
+    "header header header header"
+    "sidebar nav nav nav"
+    "sidebar main main ads"
+    "footer footer footer footer";
+  }
+}
+
+/* Task 4 */
+
+.task-4.container {
+  display: grid;
+  gap: 24px;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+
+.task-4 .item-5 {
+}
+
+/* Task 5 */
+
+.task-5.container {
+  display: grid;
+  height: 100vh;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(12, 1fr);
+}
+
+.task-5 .item-1 {
+  grid-row: 1 / span 3;
+  grid-column: 1 / span 3;
+}
+
+.task-5 .item-2 {
+  grid-row: 4 / span 3;
+  grid-column: 4 / span 3;
+}
+
+.task-5 .item-3 {
+  grid-row: 7 / span 3;
+  grid-column: 7 / span 3;
+}
+
+.task-5 .item-4 {
+  grid-row: 10 / span 3;
+  grid-column: 10 / span 3
+}
