@@ -150,8 +150,11 @@ website where you can practice and do challange to level up your learing
 
 [WayBackMachine](https://archive.org/web/)
 - shows the how website look like when first launch to now
-
-[320 web devloper resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
+     
+### Articles
+   - [30 browser extensions every developer should have](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
+   - [Hottest Frontend Tools](https://css-tricks.com/hottest-front-end-tools-in-2021/)
+   - [320 web devloper resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
 
 ## Wrap Up <a name = "wrap_up"></a>
 
