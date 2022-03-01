@@ -90,7 +90,12 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 
 ## Responsive <a name = "responsive"></a>
      
-* [Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/233002-introduction/1007804-intro-why-the-course-is-formatted-in-this-way)
+* Course: [Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/233002-introduction/1007804-intro-why-the-course-is-formatted-in-this-way)
+* Article: [The 100 correct way to do css breakpoints](https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/)
+* Youtube: 
+   - [5 simple tips to making responsive layouts the easy way](https://www.youtube.com/watch?v=VQraviuwbzU)
+   - [min(), max(), and clamp() are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo)
+   - [Creating squishy padding and margin that adapt to the viewport](https://www.youtube.com/watch?v=7khSaA91e04&t=0s)
      
      
 ## Youtube Channel <a name = "youtube_channel"></a>
