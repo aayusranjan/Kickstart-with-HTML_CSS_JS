@@ -12,6 +12,7 @@ Table of contents
 * [CSS](#css)
 * [JAVASCRIPT](#javascript)
 * [Responsive](#responsive)
+* [Design](#design)
 * [Youtube Channel](#youtube_channel)
 * [Practice](#practice)
 * [Some extra](#some_extra)
@@ -97,6 +98,12 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
    - [min(), max(), and clamp() are CSS magic!](https://www.youtube.com/watch?v=U9VF-4euyRo)
    - [Creating squishy padding and margin that adapt to the viewport](https://www.youtube.com/watch?v=7khSaA91e04&t=0s)
      
+## DESIGN <a name = "design"></a>
+     
+  - Tools to help choose Fonts for porjects
+     - [Fonts in the Wild](https://www.fontsinthewild.com/)
+     - [Fonts in Use](https://fontsinuse.com/)
+     - [Typewolf - What's trending in type](https://www.typewolf.com/)
      
 ## Youtube Channel <a name = "youtube_channel"></a>
 
