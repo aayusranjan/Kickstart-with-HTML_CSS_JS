@@ -104,11 +104,23 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
      - [Fonts in the Wild](https://www.fontsinthewild.com/)
      - [Fonts in Use](https://fontsinuse.com/)
      - [Typewolf - What's trending in type](https://www.typewolf.com/)
+     - [Fontpair](https://www.fontpair.co/)
+     - [Font management. Perfected.](https://fontba.se/)(Tool)
+     - [YOUWORKFORTHEM](https://www.youworkforthem.com/fonts/)(paid)
+     
+   - [Help to choose Colors](https://youtu.be/KMS3VwGh3HY)
+     
+     use 60/30/10 rule while applying color on website
+     
+     - [mycolor](mycolor.space)
+     - [colorhunt](https://colorhunt.co/)
+     - [articles](https://www.flux-academy.com/blog/the-psychology-of-color-how-valuable-web-designers-choose-colors)
+     
      
 ## Youtube Channel <a name = "youtube_channel"></a>
 
 1. [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
-2. [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+2. [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)(CSS)
 3. [Web Dev Simplified](https://www.youtube.com/results?search_query=web+simplified)
 4. [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 5. [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
@@ -174,6 +186,8 @@ website where you can practice and do challange to level up your learing
      
      
     Build a cool protfolio to stand out. 
+     
+     - [5 Crucial Things Every Landing Page Should Have](https://youtu.be/bdqSEBSXBPk)
      
    [30 Web Devloper Portfolios to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw#ckv1y8m0g0bclp5s18mn5cn6t)
      
