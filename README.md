@@ -99,7 +99,9 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
    - [Creating squishy padding and margin that adapt to the viewport](https://www.youtube.com/watch?v=7khSaA91e04&t=0s)
      
 ## DESIGN <a name = "design"></a>
-     
+
+  - wireframe
+     - figma 
   - Tools to help choose Fonts for porjects
      - [Fonts in the Wild](https://www.fontsinthewild.com/)
      - [Fonts in Use](https://fontsinuse.com/)
