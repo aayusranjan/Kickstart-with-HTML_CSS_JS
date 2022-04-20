@@ -182,6 +182,7 @@ website where you can practice and do challange to level up your learing
    - [30 browser extensions every developer should have](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
    - [Hottest Frontend Tools](https://css-tricks.com/hottest-front-end-tools-in-2021/)
    - [320 web devloper resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
+   - [8 Cheat Sheeta](https://levelup.gitconnected.com/8-free-cheat-sheets-that-every-developer-should-bookmark-1c5c1bf0c75a)
 
 ## Wrap Up <a name = "wrap_up"></a>
 
