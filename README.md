@@ -188,31 +188,25 @@ website where you can practice and do challange to level up your learing
    - [320 web devloper resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
    - [8 Cheat Sheeta](https://levelup.gitconnected.com/8-free-cheat-sheets-that-every-developer-should-bookmark-1c5c1bf0c75a)
 
-## Wrap Up <a name = "wrap_up"></a>
+## What's Next
 
-## What's Next <a name = "#whats_next"></a>
-     
-     
-    Build a cool protfolio to stand out. 
-     
-     - [5 Crucial Things Every Landing Page Should Have](https://youtu.be/bdqSEBSXBPk)
+   - [5 Crucial Things Every Landing Page Should Have](https://youtu.be/bdqSEBSXBPk)
      
    [30 Web Devloper Portfolios to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw#ckv1y8m0g0bclp5s18mn5cn6t)
      
-   ### Optional<br>
+### Optional<br>
+   * 10 Projects you can look thorough.
      
-    10 Projects you can look thorough.
-     
-      a. Online Code Editor (JQuery)
-      b. Real Time Video Processing using ChromaKey (GreenScreen) Effect
-      c. Instagram Automation
-      d. Sorting Visualizer
-      e. Online Code Editor (React)
-      f. Stock Visualization-Forecasting dashboard using Dash
-      g. OurApp - a social media web app in NodeJS
-      h. Amazon Clone
-      i. Customer Relationship Manager
-      j. WhatsApp Web Clone
+      - Online Code Editor (JQuery)
+      - Real Time Video Processing using ChromaKey (GreenScreen) Effect
+      - Instagram Automation
+      - Sorting Visualizer
+      - Online Code Editor (React)
+      - Stock Visualization-Forecasting dashboard using Dash
+      - OurApp - a social media web app in NodeJS
+      - Amazon Clone
+      - Customer Relationship Manager
+      - WhatsApp Web Clone
       
     
    
