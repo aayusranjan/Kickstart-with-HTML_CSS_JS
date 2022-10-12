@@ -137,6 +137,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 7. [University of Michigan](https://youtu.be/TdqQqyc7pfU)
 8. [CODER CODER](https://www.youtube.com/c/TheCoderCoder)
 9. [TRAVERSY MEDIA](https://www.youtube.com/c/TraversyMedia)
+10. [Coding Shuttle by Anuj Bhaiya](https://www.youtube.com/playlist?list=PLhzIaPMgkbxDxVcH-M-JFM73PY1R_i2mK)
 
 ## Bootcamp <a name = "bootcamp"></a>
 * [Bootcamp](https://frontendmasters.com/bootcamp/)
