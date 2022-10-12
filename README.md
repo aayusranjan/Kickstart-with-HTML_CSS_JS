@@ -27,6 +27,8 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 1. [W3Schools](https://www.w3schools.com/)
 2. [freeCodeCamp](https://www.freecodecamp.org/)
 3. [THE ODIN PROJECT](https://www.theodinproject.com/)
+4. [SOLO LEARN](https://www.sololearn.com/home)
+5. [CODECADEMY](https://www.codecademy.com/learn)
 
 ## Documents and Articles
 
@@ -133,6 +135,8 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 5. [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 6. [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 7. [University of Michigan](https://youtu.be/TdqQqyc7pfU)
+8. [CODER CODER](https://www.youtube.com/c/TheCoderCoder)
+9. [TRAVERSY MEDIA](https://www.youtube.com/c/TraversyMedia)
 
 ## Bootcamp <a name = "bootcamp"></a>
 * [Bootcamp](https://frontendmasters.com/bootcamp/)
@@ -145,7 +149,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 2. [Frontend Mentor](https://www.frontendmentor.io/challenges)
 3. [Devchallenges](https://devchallenges.io/)
 4. [Codewell](https://www.codewell.cc/)
-
+5. [100DAYSOFCODE](https://www.100daysofcode.com/)
 #### HTML and CSS beginner friendly projects
 
 1. A Tribute Page
