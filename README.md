@@ -189,6 +189,22 @@ website where you can practice and do challange to level up your learing
 
 [WayBackMachine](https://archive.org/web/)
 - shows the how website look like when first launch to now
+
+## Important Resources
+[Google Fonts](https://fonts.google.com/)
+- library of hundreds of fonts to use.
+
+[Fontawesome](https://fontawesome.com/icons)
+- Thousands of icons to use directly.
+
+[Icons8](https://icons8.com/)
+- library of different icons.
+
+[CssTricks](https://css-tricks.com/)
+- Latest CSS trends and code snippets.
+
+[RemoveBG](https://www.remove.bg/)
+- Best way to remove background from any image.
      
 ### Articles
    - [30 browser extensions every developer should have](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
