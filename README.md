@@ -30,6 +30,9 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 4. [CodeMentor](https://www.codementor.io/)
 5. [Eductive](https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 6. [javascript.info](https://javascript.info/)
+4. [SOLO LEARN](https://www.sololearn.com/home)
+5. [CODECADEMY](https://www.codecademy.com/learn)
+
 
 ## Documents and Articles
 
@@ -39,6 +42,8 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 4. [Learn JavaScript](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
 5. [28 Free Ebooks and Courses](https://enlear.academy/28-ebook-and-course-free-for-web-development-4f01a4d1f4a6)
 6. [Emmet Cheat sheet](https://docs.emmet.io/cheat-sheet/)
+7. [CSS-tricks](https://css-tricks.com/)
+8. [javascript30](https://javascript30.com/)
 
 <br>
 
@@ -136,6 +141,11 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 5. [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 6. [Traversy Media](https://www.youtube.com/c/TraversyMedia)
 7. [University of Michigan](https://youtu.be/TdqQqyc7pfU)
+8. [CODER CODER](https://www.youtube.com/c/TheCoderCoder)
+9. [TRAVERSY MEDIA](https://www.youtube.com/c/TraversyMedia)
+10. [Coding Shuttle by Anuj Bhaiya](https://www.youtube.com/playlist?list=PLhzIaPMgkbxDxVcH-M-JFM73PY1R_i2mK)
+11. [Apna College](https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)  
+12. [Code With Harry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
 
 ## Bootcamp <a name = "bootcamp"></a>
 * [Bootcamp](https://frontendmasters.com/bootcamp/)
@@ -148,7 +158,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 2. [Frontend Mentor](https://www.frontendmentor.io/challenges)
 3. [Devchallenges](https://devchallenges.io/)
 4. [Codewell](https://www.codewell.cc/)
-
+5. [100DAYSOFCODE](https://www.100daysofcode.com/)
 #### HTML and CSS beginner friendly projects
 
 1. A Tribute Page
@@ -185,6 +195,22 @@ website where you can practice and do challange to level up your learing
 
 [WayBackMachine](https://archive.org/web/)
 - shows the how website look like when first launch to now
+
+## Important Resources
+[Google Fonts](https://fonts.google.com/)
+- library of hundreds of fonts to use.
+
+[Fontawesome](https://fontawesome.com/icons)
+- Thousands of icons to use directly.
+
+[Icons8](https://icons8.com/)
+- library of different icons.
+
+[CssTricks](https://css-tricks.com/)
+- Latest CSS trends and code snippets.
+
+[RemoveBG](https://www.remove.bg/)
+- Best way to remove background from any image.
      
 ### Articles
    - [30 browser extensions every developer should have](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
