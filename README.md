@@ -27,8 +27,12 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 1. [W3Schools](https://www.w3schools.com/)
 2. [freeCodeCamp](https://www.freecodecamp.org/)
 3. [THE ODIN PROJECT](https://www.theodinproject.com/)
+4. [CodeMentor](https://www.codementor.io/)
+5. [Eductive](https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
+6. [javascript.info](https://javascript.info/)
 4. [SOLO LEARN](https://www.sololearn.com/home)
 5. [CODECADEMY](https://www.codecademy.com/learn)
+
 
 ## Documents and Articles
 
