@@ -30,8 +30,9 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 4. [CodeMentor](https://www.codementor.io/)
 5. [Eductive](https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 6. [javascript.info](https://javascript.info/)
-4. [SOLO LEARN](https://www.sololearn.com/home)
-5. [CODECADEMY](https://www.codecademy.com/learn)
+7. [SOLO LEARN](https://www.sololearn.com/home)
+8. [CODECADEMY](https://www.codecademy.com/learn)
+9. [Scrimba](https://scrimba.com/)
 
 
 ## Documents and Articles
@@ -110,7 +111,7 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 ## DESIGN <a name = "design"></a>
 
   - wireframe
-     - figma 
+     - [Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
      - [Landingfolio](https://www.landingfolio.com/)
   - Tools to help choose Fonts for porjects
      - [Fonts in the Wild](https://www.fontsinthewild.com/)
@@ -120,17 +121,18 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
      - [Font management. Perfected.](https://fontba.se/)(Tool)
      - [YOUWORKFORTHEM](https://www.youworkforthem.com/fonts/)(paid)
      
-   - [Help to choose Colors](https://youtu.be/KMS3VwGh3HY)
-     
+   - [Help to choose Colors](https://youtu.be/KMS3VwGh3HY)  
      use 60/30/10 rule while applying color on website
      
      - [mycolor](mycolor.space)
      - [colorhunt](https://colorhunt.co/)
      - [articles](https://www.flux-academy.com/blog/the-psychology-of-color-how-valuable-web-designers-choose-colors)
-     
+   - [How to use color palettes](https://www.youtube.com/watch?v=eXcKOqviLE0)
+   
 ## Code Editor <a name="code_editor"></a>
  
  - [codEsandbox](https://codesandbox.io/dashboard/home?workspace=0187b69c-2b35-4c44-8962-9f45a95322df)
+ - [Codepen](https://codepen.io/)
  
 ## Youtube Channel <a name = "youtube_channel"></a>
 
@@ -146,7 +148,10 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 10. [Coding Shuttle by Anuj Bhaiya](https://www.youtube.com/playlist?list=PLhzIaPMgkbxDxVcH-M-JFM73PY1R_i2mK)
 11. [Apna College](https://youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)  
 12. [Code With Harry](https://youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
-
+13. [freeCodeCamp](https://www.youtube.com/@freecodecamp)
+14. [Bro Code](https://www.youtube.com/@BroCodez)
+15. [Code with Ania Kubow](https://www.youtube.com/@AniaKubow)
+     
 ## Bootcamp <a name = "bootcamp"></a>
 * [Bootcamp](https://frontendmasters.com/bootcamp/)
      
@@ -159,7 +164,9 @@ Some free Websites to Get Started with HTML CSS and JAVASCRIPT
 3. [Devchallenges](https://devchallenges.io/)
 4. [Codewell](https://www.codewell.cc/)
 5. [100DAYSOFCODE](https://www.100daysofcode.com/)
-#### HTML and CSS beginner friendly projects
+6. [Sololearn - Challenges, Code Playground and quizzes with learning](https://www.sololearn.com/)
+
+cod#### HTML and CSS beginner friendly projects
 
 1. A Tribute Page
 2. Webpage Including Form
@@ -197,6 +204,13 @@ website where you can practice and do challange to level up your learing
 - shows the how website look like when first launch to now
 
 ## Important Resources
+     
+[Unsplash By Getty](https://unsplash.com/)
+- library for free images without any copyright.
+     
+[unDraw](https://undraw.co/illustrations)
+- library for SVG's and illustrations.
+     
 [Google Fonts](https://fonts.google.com/)
 - library of hundreds of fonts to use.
 
@@ -215,14 +229,23 @@ website where you can practice and do challange to level up your learing
 ### Articles
    - [30 browser extensions every developer should have](https://devdojo.com/abhiraj/30-browser-extensions-every-developer-should-have)
    - [Hottest Frontend Tools](https://css-tricks.com/hottest-front-end-tools-in-2021/)
-   - [320 web devloper resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
-   - [8 Cheat Sheeta](https://levelup.gitconnected.com/8-free-cheat-sheets-that-every-developer-should-bookmark-1c5c1bf0c75a)
+   - [320 web developer resources](https://devdojo.com/rahulism/320-free-resources-for-learning-fullstack-frontend-and-backend)
+   - [8 Cheat Sheets](https://levelup.gitconnected.com/8-free-cheat-sheets-that-every-developer-should-bookmark-1c5c1bf0c75a)
 
-## What's Next
-
-   - [5 Crucial Things Every Landing Page Should Have](https://youtu.be/bdqSEBSXBPk)
+## All Time Saviours
+   - [Stack Overflow](https://stackoverflow.com/)
+   - [GitHub](https://github.com/)
+   - [Codeproject](https://www.codeproject.com/)
+   - [GeeksForGeeks](https://www.geeksforgeeks.org/)
      
-   [30 Web Devloper Portfolios to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw#ckv1y8m0g0bclp5s18mn5cn6t)
+## What's Next<a name = "whats_next"></a>
+
+   * [5 Crucial Things Every Landing Page Should Have](https://youtu.be/bdqSEBSXBPk)
+   * Sharp your skills in either of the stack
+     - [MERN](https://www.youtube.com/watch?v=QlGdM2vkun4)
+     - [MEAN](https://www.youtube.com/watch?v=-gd73iczlS8&list=PL3vQyqzqjZ637sWpKvniMCxdqZhnMJC1d)
+     
+   * [30 Web Developer Portfolios to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw#ckv1y8m0g0bclp5s18mn5cn6t)
      
 ### Optional<br>
    * 10 Projects you can look thorough.
