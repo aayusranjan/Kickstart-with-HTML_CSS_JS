@@ -204,6 +204,9 @@ website where you can practice and do challange to level up your learing
 - shows the how website look like when first launch to now
 
 ## Important Resources
+
+[quickref](https://quickref.me/)
+- lot of quick guid about application which we using these days
      
 [Unsplash By Getty](https://unsplash.com/)
 - library for free images without any copyright.
@@ -233,6 +236,7 @@ website where you can practice and do challange to level up your learing
    - [8 Cheat Sheets](https://levelup.gitconnected.com/8-free-cheat-sheets-that-every-developer-should-bookmark-1c5c1bf0c75a)
 
 ## All Time Saviours
+   - [Chat-gtp](https://chat.openai.com/chat)
    - [Stack Overflow](https://stackoverflow.com/)
    - [GitHub](https://github.com/)
    - [Codeproject](https://www.codeproject.com/)
