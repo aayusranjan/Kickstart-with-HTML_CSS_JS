@@ -248,6 +248,7 @@ website where you can practice and do challange to level up your learing
    * Sharp your skills in either of the stack
      - [MERN](https://www.youtube.com/watch?v=QlGdM2vkun4)
      - [MEAN](https://www.youtube.com/watch?v=-gd73iczlS8&list=PL3vQyqzqjZ637sWpKvniMCxdqZhnMJC1d)
+     - [Resumes wiki](https://www.reddit.com/r/resumes/wiki/index/)
      
    * [30 Web Developer Portfolios to inspire you](https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw#ckv1y8m0g0bclp5s18mn5cn6t)
      
